@@ -1,19 +1,27 @@
 # Bobadilla Tech
 
-🌐 https://bobadilla.tech/
+🌐 [bobadilla.tech](https://bobadilla.tech)\
+🔗 [LinkedIn](https://www.linkedin.com/company/bobadillatech)
 
-We’re not just another agency.
+Bobadilla Tech is a **seasoned software factory and engineering agency**.
 
-Bobadilla Tech is a senior-led engineering team focused on building
-**high-performance backend systems**, **distributed services**, and
-**production-ready AI solutions**.\
-We specialize in turning complex requirements into reliable, scalable software
-used in real-world environments.
+We build **full-stack applications**, **MVPs for startups**, and **production
+systems** for teams that need senior engineers from day one.\
+Our focus is on shipping quickly while maintaining solid architecture — from
+early validation to scalable, long-term systems.
+
+## What We Do
+
+- Full-stack web and backend development
+- MVPs and early-stage products for startups
+- Scalable backend systems and APIs
+- Distributed systems, queues, and background workers
+- AI-powered features and integrations
 
 ## Products
 
-We also build and operate our own SaaS products:
+Alongside client work, we build and operate our own SaaS products:
 
-- **CompileStrength** — https://compilestrength.com/
-- **Requiem’s API** — https://requiems-api.xyz/
-- **MyPDFs** — https://mypdfs.xyz/
+- **[CompileStrength](https://compilestrength.com)**
+- **Requiem’s API** — private beta
+- **MyPDFs** — private beta
