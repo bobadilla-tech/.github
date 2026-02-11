@@ -6,7 +6,7 @@ This is a comprehensive prompt template for creating complete, production-ready 
 
 ## 📋 Master Prompt Template
 
-```
+~~~
 I want to build a modern, ad-optimized [TOOL_NAME] web application that's better than existing alternatives. The goal is to create a high-quality tool that can generate passive income through Google AdSense while providing genuine value to users.
 
 ### Project Requirements
@@ -294,6 +294,7 @@ Include:
 - [ ] Set up analytics (Google Analytics 4)
 - [ ] Monitor Core Web Vitals
 - [ ] Track rankings for target keywords
+~~~
 
 ---
 
